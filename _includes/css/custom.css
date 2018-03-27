@@ -38,6 +38,17 @@
 	font-size: 400%; 
 }
 
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
 .events, 
 .bu-event-date,
 .bu-event-date > ul {
