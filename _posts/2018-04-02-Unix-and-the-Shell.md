@@ -3,7 +3,7 @@ title: Introduction to the Unix  Shell
 text: 
 location: ESC
 link: https://goo.gl/forms/Nf97reXlisqg7mOW2
-date: 2018-04-02
+date: 2018-03-02
 archive: Y  
 leader: Mesfin Diro
 etherpad: https://public.etherpad-mozilla.org/p/Rladies-Unix
