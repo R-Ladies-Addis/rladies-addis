@@ -50,7 +50,7 @@
     margin-top: -1px;
 }
 
-.dropdown-menu li:hover .dropdown-submenu {
+.menu li:hover .dropdown-submenu {
 z-index:1;
 opacity:1;
 }
