@@ -50,25 +50,25 @@
     margin-top: -1px;
 }
 
-.dropdown-submenu .arrow {
+.submenu .arrow {
 font-size:11px;
 line-height:0%;
 }
 
-.dropdown-submenu li:hover .dropdown-submenu {
+.submenu li:hover .submenu {
 z-index:1;
 opacity:1;
 }
 
-.dropdown-submenu li {
+.submenu li {
 display:block;
 font-size:16px;
 }
-.dropdown-submenu li a {
+.submenu li a {
 padding:10px 30px;
 display:block;
 }
-.dropdown-submenu li a:hover, .dropdown-submenu .current-item a {
+.submenu li a:hover, .submenu .current-item a {
 background:#3e3436;
 }
 
