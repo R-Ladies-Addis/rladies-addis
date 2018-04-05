@@ -50,7 +50,12 @@
     margin-top: -1px;
 }
 
-.menu li:hover .dropdown-submenu {
+.dropdown-submenu .arrow {
+font-size:11px;
+line-height:0%;
+}
+
+.dropdown-submenu li:hover .dropdown-submenu {
 z-index:1;
 opacity:1;
 }
