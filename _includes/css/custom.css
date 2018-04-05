@@ -49,16 +49,31 @@
     left: 100%;
     margin-top: -1px;
 }
+/*----- Top Level -----*/
+.menu > ul > li {
+float:left;
+display:inline-block;
+position:relative;
+font-size:19px;
+}
+.menu > ul > li > a {
+padding:10px 40px;
+display:inline-block;
+text-shadow:0px 1px 0px rgba(0,0,0,0.4);
+}
+.menu > ul > li:hover > a, .menu > ul > .current-item > a {
+background:#2e2728;
+}
+.menu li:hover .submenu {
+z-index:1;
+opacity:1;
+}
 
 .submenu .arrow {
 font-size:11px;
 line-height:0%;
 }
 
-.submenu li:hover .submenu {
-z-index:1;
-opacity:1;
-}
 
 .submenu li {
 display:block;
