@@ -23,7 +23,7 @@ We are partnering with the [Mozilla Science Lab](https://www.mozillascience.org/
 
 ### It's Broken, I Need Help
 
-If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email tah@bu.edu.
+If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email mesfin.diro@aau.edu.et.
 
 ### Check out the Handbook
 
