@@ -50,7 +50,7 @@
     margin-top: -1px;
 }
 
-/* Dropdown Button */
+* Dropdown Button */
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -64,7 +64,7 @@
     position: relative;
     display: inline-block;
 }
-white
+
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
