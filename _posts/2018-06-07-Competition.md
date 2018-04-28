@@ -13,6 +13,6 @@ repo: https://rladies-addis.github.io/rladies-addis
 
 Inspired by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
 
-[R Competition](img/R-Ladies_competition_poster_final%20.pdf){:class="btn btn-xl"} 
+[Competition](img/R-Ladies_competition_poster_final%20.pdf){:class="btn btn-xl"} 
 
 
