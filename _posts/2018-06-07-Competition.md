@@ -2,7 +2,7 @@
 title: Code the futuRe Competition
 text: By R-Ladies Addis
 location: to be anncounced
-link:https://rladies-addis.github.io/rladies-addis/competition
+link:
 date: 2018-06-07
 archive: Y  
 leader: Mesfin Diro
