@@ -14,7 +14,7 @@ repo: https://rladies-addis.github.io/rladies-addis
 
 Inspired by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
 
-#[A GLOBAL COMMUNITY](https://2018.spaceappschallenge.org/)
+# [A GLOBAL COMMUNITY](https://2018.spaceappschallenge.org/)
 
 R-Ladies Space Apps is an international hackathon that occurs over 48 hours in cities around the world. Because of citizens like you, we continue to grow each year. If you haven't already, join us to share ideas and engage with open data to address real-world problems, on Earth and in space. Work alone or with a team to solve challenges that could help change the world. Check back here to find a Space Apps event near you, or sign up to participate virtually.
 
