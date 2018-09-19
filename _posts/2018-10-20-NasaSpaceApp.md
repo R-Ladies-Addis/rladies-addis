@@ -12,7 +12,7 @@ etherpad-text:
 repo: https://rladies-addis.github.io/rladies-addis
 ---
 
-Inspired by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
+Hosted by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
 
 #### [A GLOBAL COMMUNITY](https://2018.spaceappschallenge.org/)
 
