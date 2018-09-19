@@ -1,8 +1,8 @@
 ---
-title: Code the futuRe Competition
+title: NASA SPACE APP CHALLENGE
 text: By R-Ladies Addis
 location: to be anncounced
-link:
+link: https://2018.spaceappschallenge.org/
 startdate: 2018-10-20
 enddata: 2018-10-21
 archive: Y  
