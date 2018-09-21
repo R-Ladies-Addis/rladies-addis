@@ -23,7 +23,7 @@ R-Ladies Addis Ababa is inspired to host an international  Space Apps hackathon 
 Part of the Open Government Partnership, Space Apps is an annual event that pulls citizens together regardless of their background or skill level. Don't let the name fool you... it's not just about apps! Tackle a challenge using robotics, data visualization, hardware, design and many other specialties! Inspire each other while you learn and create using stories, code, design and, most of all, YOUR ideas. Show us your problem-solving skills and share your talents with the world!
 
 [Locations on Map](https://2018.spaceappschallenge.org/locations/map){:class="btn btn-xl"}
-[Volunters application](https://agenda.ethernet.edu.et/event/22/){:class="btn btn-xl"}
+[Volunters Site](https://agenda.ethernet.edu.et/event/22/){:class="btn btn-xl"}
 
 
 
