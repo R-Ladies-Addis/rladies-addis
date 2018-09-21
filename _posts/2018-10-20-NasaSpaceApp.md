@@ -24,7 +24,6 @@ Part of the Open Government Partnership, Space Apps is an annual event that pull
 
 [Locations on Map](https://2018.spaceappschallenge.org/locations/map){:class="btn btn-xl"}
 [Volunters Registration](https://agenda.ethernet.edu.et/event/22/){:class="btn btn-xl"}
-[Participants Registration](https://agenda.ethernet.edu.et/event/22/){:class="btn btn-xl"}
 
 
 
