@@ -3,7 +3,7 @@ title: NASA SPACE APP CHALLENGE
 text: By R-Ladies Addis
 location: to be anncounced
 link: https://2018.spaceappschallenge.org/
-startdate: 2018-10-20
+startdate: 2018-10-19
 enddata: 2018-10-21
 archive: Y  
 leader: R-Ladies Addis
