@@ -1,5 +1,5 @@
 ---
-title:  $1^{st}$ R-Ladies Addis International Confrence
+title:  First R-Ladies Addis International Confrence
 text: By R-Ladies Addis Ababa
 location: to be anncounced
 link: https://agenda.ethernet.edu.et/event/27/
