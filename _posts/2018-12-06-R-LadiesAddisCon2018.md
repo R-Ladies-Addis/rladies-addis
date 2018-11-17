@@ -1,6 +1,6 @@
 ---
-title: R-Ladies Addis Ababa International Confrence
-text: By R-Ladies Addis
+title:  1^{st} R-Ladies Addis International Confrence
+text: By R-Ladies Addis Ababa
 location: to be anncounced
 link: https://agenda.ethernet.edu.et/event/27/
 startdate: 2018-12-06
@@ -12,7 +12,7 @@ etherpad-text:
 repo: https://github.com/R-Ladies-Addis/rladies-addis
 ---
 
-Hosted by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
+Hosted by [R-Ladies Addis](https://r-ladies-addis.github.io/rladies-addis/) 
 
 #### [International R-Ladies Conference](https://agenda.ethernet.edu.et/event/27/)
 R-Ladies initiative in Ethiopia started with R-Ladies Addis Ababa and reached out to Aksum, Hawassa, Wachemo, Dilla, Gondar, Wollo, Adigrat, Mizan-Tepi and Wolkite (sister organizations). R-Ladies focus is on female researchers and to support them in their work with data bases and coding within their research works. R-Ladies Addis Ababa but is open for both genders.
