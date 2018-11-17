@@ -1,5 +1,5 @@
 ---
-title: NASA SPACE APP CHALLENGE
+title: R-Ladies Addis Ababa International Confrence
 text: By R-Ladies Addis
 location: to be anncounced
 link: https://agenda.ethernet.edu.et/event/27/
