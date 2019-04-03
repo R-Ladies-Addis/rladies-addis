@@ -4,19 +4,12 @@
   interests:
     - Data Literacy
     - Open Science
-- name: Mesfin Diro
-  affiliation: AAU
-  github: mesfind
+- name: Seble Ayalew
+  affiliation: World Bank
+  github: 
   interests:
-    - Data Science 
-    - Programming
-    - HPC
-- name: Dagim Yoseph
-  affiliation: AAU
-  github: dagimy
-  interests:
-    - Economics 
-    - Operations Research
+    - Data Science
+
 - name: Wubnesh Shiferaw
   affiliation: HERQA
   github: 
