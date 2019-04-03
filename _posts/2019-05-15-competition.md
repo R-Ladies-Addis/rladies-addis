@@ -11,7 +11,7 @@ etherpad-text:
 repo: https://rladies-addis.github.io/rladies-addis
 ---
 
-Inspired by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
+Organised by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
 
 #### Coding for Innovation
 Innovation does not come by coincidence. Structured approaches assist in
