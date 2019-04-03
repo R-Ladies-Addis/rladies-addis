@@ -13,7 +13,7 @@ repo: https://rladies-addis.github.io/rladies-addis
 
 Inspired by [R-Ladies Addis]( https://rladies-addis.github.io/rladies-addis) 
 
-## Coding for Innovation
+#### Coding for Innovation
 Innovation does not come by coincidence. Structured approaches assist in
 finding gaps that need and could be filled. These gaps might refer to needs and
 desires of people, to manufacturing processes, to new materials, to new markets,
@@ -26,7 +26,7 @@ discovered.
 R Ladies Addis Ababa is convinced that R will provide the key and calls out for
 female researchers to apply R to innovate the future.
 
-## Target Group
+#### Target Group
 Graduates
 * from disciplines of science and technology , agriculture sciences, social sciences including economics and humanities
 * familiar with R or Rstudio
@@ -34,13 +34,13 @@ Graduates
 * driven to contribute to valuable research for industry, politics and the
 society at large
 
-## Objective Awards
+#### Objective Awards
 
 The main objective is to provide young researchers a floor to participate and to
 design their future and to mirror graduates perspectives in research, industry and
 the market.
 
-## Guidelines
+#### Guidelines
 
 The competition will take place in front of a jury composed of representatives
 from industry and research. The focus is on the presentation of the findings and how
@@ -54,7 +54,7 @@ test the results. Criteria is to achieve the same result as shown in the submitt
 documents. Based on the Committee’s evaluation the submitted proposal will be
 invited for presentation.
 
-## Steps to the Presentation
+####  Steps to the Presentation
 
 Selection of a databases suitable for exploration
 * Research question
@@ -64,14 +64,14 @@ Selection of a databases suitable for exploration
 * Testing by the committee on the FAIR criteria
 * Invitation for presentation on May 15, 2019 (shortlisted presentations only)
 
-## Guidelines for the Committee
+#### Guidelines for the Committee
 
 * Evaluation of the research question
 * Coding should achieve the same results as the candidate
 * Evaluating the narrative how to make the findings usable for industry/ government or how to explore the findings more in depth
 * Proposing the proposal for presentation of the proposal
 
-## Awards 
+#### Awards 
 
 The German International Cooperation (GIZ) provides for the winner of this competition with a research scholarship of 3,000 ETB in cash for 3 months.
 
