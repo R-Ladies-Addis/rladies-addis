@@ -34,7 +34,7 @@ Graduates
 * driven to contribute to valuable research for industry, politics and the
 society at large
 
-#### Objective Awards
+#### Objective
 
 The main objective is to provide young researchers a floor to participate and to
 design their future and to mirror graduates perspectives in research, industry and
