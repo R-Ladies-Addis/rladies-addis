@@ -86,4 +86,4 @@ Your submission please send to:
 
 As subject on the e-mail please indicate: R-Ladies Addis – Competition 2019
 
-[Competition Poster](img/R-Ladies_competition_poster_final%20.pdf){:class="btn btn-xl"} 
+[Competition Poster](img/Poster R-Ladies Addis Open Competition 2019.pdf){:class="btn btn-xl"} 
